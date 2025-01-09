@@ -42,7 +42,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 
 ## 🐳 Docker
 
-### Docker Compose
+### Docker Compose.
 
 1. Go to `docker` folder at the root of the project
 2. Copy `.env.example` file, paste it into the same location, and rename to `.env`
