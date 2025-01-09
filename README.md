@@ -18,7 +18,7 @@ English | [中文](./i18n/README-ZH.md) | [日本語](./i18n/README-JA.md) | [�
 <a href="https://github.com/FlowiseAI/Flowise">
 <img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true"></a>
 
-## ⚡Quick Start
+## ⚡Quick Start.
 
 Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 
